@@ -3,7 +3,6 @@ import { View, Text } from '@tarojs/components'
 import './index.scss'
 
 const a = 100
-console.log(a)
 export default class Index extends Component {
 
   componentWillMount () { }
